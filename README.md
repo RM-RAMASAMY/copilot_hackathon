@@ -122,12 +122,4 @@ The **Doctor Recommendation System** is a machine learning-powered application d
 - **User Feedback**: Incorporate patient feedback to improve recommendations.
 - **Advanced Query Understanding**: Use more advanced models for better query restructuring.
 
----
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contact
-For questions or support, please contact [Your Name/Team] at [Your Email].
